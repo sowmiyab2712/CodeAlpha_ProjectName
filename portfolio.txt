@@ -1,0 +1,4 @@
+Stock, Quantity, Investment
+TSLA, 1, 250
+
+Total Investment: ₹250
